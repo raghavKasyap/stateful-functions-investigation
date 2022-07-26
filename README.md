@@ -1,2 +1,2 @@
-# stateful-functions-investigation
+# StateFul Functions Investigation
 Investigation of Stateful Function in apache Flink
